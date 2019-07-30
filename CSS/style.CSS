@@ -109,8 +109,7 @@ ul.top_menu {
   height: 200px;
   background-color: #FCE8E7;
   padding: 20px;
-}
-.news li{
-  overflow: scroll;
+  overflow:scroll;
   line-height: 2;
+
 }
