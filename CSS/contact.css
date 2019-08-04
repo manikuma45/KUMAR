@@ -1,0 +1,16 @@
+.contact tr{
+  height: 7rem;
+}
+.contact th {
+  width: 150px;
+  background-color: #B1B1B1;
+  color: #fff;
+  border-bottom: solid 1px black;
+}
+.contact input{
+  width: 480px;
+  border-bottom: solid 1px black;
+}
+.contact textarea{
+  width: 480px;
+}
