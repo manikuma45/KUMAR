@@ -6,6 +6,7 @@
   background-color: #B1B1B1;
   color: #fff;
   border-bottom: solid 1px black;
+
 }
 .contact input{
   width: 480px;
@@ -13,4 +14,15 @@
 }
 .contact textarea{
   width: 480px;
+}
+.button{
+text-align: center;
+font-size: 20px;
+padding: 12px 12px;
+}
+.box input{
+  width: 10px;
+}
+.contact{
+  border-collapse: collapse;
 }
