@@ -1,0 +1,41 @@
+.contact tr{
+  height: 7rem;
+}
+.contact th {
+  width: 150px;
+  color: #000000;
+  text-align: right;
+  padding-right: 15px;
+
+}
+.contact input{
+  width: 480px;
+  border: solid 1px #dcdcdc;
+}
+.contact textarea{
+  width: 480px;
+  border: solid 1px #000000;
+}
+.button {
+text-align: center;
+font-size: 20px;
+padding: 12px 12px;
+}
+
+.box input{
+  width: 10px;
+}
+.contact{
+  border-collapse: collapse;
+}
+.button [type="submit"]  {
+    color: black;
+    background-color: cyan;
+    height: 50px;
+}
+.button p:hover {
+  opacity: 0.5;
+}
+.banner{
+  visibility: hidden;
+}

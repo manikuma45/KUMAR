@@ -44,10 +44,6 @@ header ul a {
   margin-top: 15px;
 }
 
-header li {
-
-
-}
 header ul:after {
   content: "";
     display: block;
